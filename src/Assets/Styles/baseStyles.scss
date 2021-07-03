@@ -1,0 +1,21 @@
+@import "fonts";
+
+#root, .App {
+    height: 100% !important;
+}
+
+* {
+    font-family: "IranSansWeb";
+}
+
+body {
+    margin: 0;
+    background-color: #f5f5f9;
+}
+
+input:focus{
+    outline: none;
+}
+
+
+
